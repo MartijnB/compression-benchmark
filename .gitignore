@@ -1,0 +1,16 @@
+*.lo
+*.o
+*.obj
+*.a
+*.Po
+*.Plo
+*.la
+*.lai
+*.so
+*.so.*
+xz-5.2.1/src/xz/xz
+xz-5.2.1/src/xz/.libs/xz
+xz-5.2.1/src/lzmainfo/.libs/lzmainfo
+.dirstamp
+
+
